@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=fivemru&project=export-vk-playlist-to-file&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Как перенести музыку из Вконтакте (ВК) в Яндекс Музыку
 
 Экспорт своего плейлиста из ВК в текстовый файл и импорт в яндекс музыку.
